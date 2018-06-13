@@ -1,0 +1,26 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="a" />
+  </action>
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="r" />
+  </action>
+  <action id="ClassTemplateNavigation" />
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="d" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="b" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="f" />
+  </action>
+  <action id="GoToClass" />
+  <action id="Scala.RenameJavaToScala" />
+  <action id="UpdateFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="t" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="h" />
+  </action>
+</keymap>
