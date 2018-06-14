@@ -1,0 +1,29 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="a" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
+  <action id="ChangesView.Diff">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="ClassTemplateNavigation" />
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="d" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="b" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="f" />
+  </action>
+  <action id="Git.Rebase">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="r" />
+  </action>
+  <action id="GoToClass" />
+  <action id="Scala.RenameJavaToScala" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="h" />
+  </action>
+</keymap>
