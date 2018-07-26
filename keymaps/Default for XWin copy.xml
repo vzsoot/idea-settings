@@ -21,6 +21,10 @@
   </action>
   <action id="GoToClass" />
   <action id="Scala.RenameJavaToScala" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="UpdateFiles">
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="t" />
   </action>
