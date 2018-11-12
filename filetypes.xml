@@ -8,6 +8,7 @@
       <mapping pattern="fsimage_0000000000000000000" type="PLAIN_TEXT" />
       <mapping pattern="PATCH-2879" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="model" type="TypeScript" />
       <mapping pattern=".gitlab-ci-yml" type="YAML" />
     </extensionMap>
   </component>
