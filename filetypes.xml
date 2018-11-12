@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="edits_0000000000000000001-0000000000000000008" type="PLAIN_TEXT" />
       <mapping pattern="tmp1" type="PLAIN_TEXT" />
+      <mapping pattern=".prittierrc" type="PLAIN_TEXT" />
       <mapping pattern="___init___.py" type="PLAIN_TEXT" />
       <mapping pattern="fsimage_0000000000000000000" type="PLAIN_TEXT" />
       <mapping pattern="PATCH-2879" type="PLAIN_TEXT" />
